@@ -1,7 +1,7 @@
 # Notes
 Repository used for taking notes, and storing small bits of code that don't apply directly to current projects. 
 
-To list .Net runtimes in Powershell:  
+To list .Net runtimes in the .Net CLI:  
 ```powershell
 dotnet --list-runtimes
 ```
